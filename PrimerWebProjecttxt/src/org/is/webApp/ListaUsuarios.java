@@ -18,7 +18,7 @@ public class ListaUsuarios {
 	
 	// dev on Eclipse
 	// deploy on Ubuntu
-	private String rutaArchivo = "$CATALINA_HOME/webapps/webapps/PrimerWebProject-0.0.1-SNAPSHOT/datos/usuarios.txt";
+	private String rutaArchivo = "$CATALINA_HOME/webapps/PrimerWebProject-0.0.1-SNAPSHOT/datos/usuarios.txt";
 	
 	/* TIP: Edit tomcat defaul directory:
 	*  and I edit the tomcat argument in Eclipse IDE. 
